@@ -1,16 +1,22 @@
 _repo: Sam_47394
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Grefé, Will
     alias: Grefe, Will
     gutenberg_agent_id: '9414'
     url: http://www.gutenberg.org/2009/agents/9414
+covers:
+- cover_type: archival
+  image_path: 47394-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Rath, E. J.
     gutenberg_agent_id: '41855'
     url: http://www.gutenberg.org/2009/agents/41855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47394#Sam
 gutenberg_issued: '2014-11-18'
 gutenberg_type: Text
 identifiers:
